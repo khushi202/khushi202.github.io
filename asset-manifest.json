@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da7537c8.css",
+    "main.js": "/static/js/main.28a9bbc1.js",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.9c6db23ae93b57308f9f.jpg",
+    "static/media/ME.png": "/static/media/ME.bc059eeaa02c8e37f30b.png",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.582e29de2404d50928e2.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.5bddeb32d9d77d44c4ff.jpg",
+    "static/media/bg.jpg": "/static/media/bg.76a992cf04db773191c7.jpg",
+    "static/media/kk.jpeg": "/static/media/kk.f23ec52de64869b256ca.jpeg",
+    "static/media/test2.jpeg": "/static/media/test2.e8c5a14db2377c84a26b.jpeg",
+    "static/media/test4.jpeg": "/static/media/test4.06e0a4942556cffe3526.jpeg",
+    "static/media/KHUSHI.pdf": "/static/media/KHUSHI.ec64ca167713594395ed.pdf",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.766a37468f2cdf2945c7.jpg",
+    "static/media/test1.jpeg": "/static/media/test1.fee1ab00925e13b10f1c.jpeg",
+    "static/media/test3.jpeg": "/static/media/test3.f57d76b3e2dd8c4abdb5.jpeg",
+    "index.html": "/index.html",
+    "main.da7537c8.css.map": "/static/css/main.da7537c8.css.map",
+    "main.28a9bbc1.js.map": "/static/js/main.28a9bbc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7537c8.css",
+    "static/js/main.28a9bbc1.js"
+  ]
+}
